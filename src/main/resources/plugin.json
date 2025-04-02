@@ -3,7 +3,7 @@
   "weight": 3001,
   "javaplugin": "net.nerdypuzzle.geckolib.Launcher",
   "supportedversions": [
-    2024004
+    2025001
   ],
   "info": {
     "name": "GeckoLib Plugin",
